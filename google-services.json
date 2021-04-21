@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23389776652",
+    "project_id": "patient-sevak",
+    "storage_bucket": "patient-sevak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23389776652:android:935e16a7152fd9124b3729",
+        "android_client_info": {
+          "package_name": "com.example.patient_sevak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23389776652-4kt3svgbvb4kgv9nuda4voto7emitpfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOAxuGu_hcDOYDkarwxuySmRSzWDpCo30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23389776652-4kt3svgbvb4kgv9nuda4voto7emitpfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
