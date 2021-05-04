@@ -6,7 +6,6 @@ import 'package:typicons_flutter/typicons_flutter.dart';
 
 class SearchList extends StatefulWidget {
   final String searchKey;
-
   const SearchList({Key key, this.searchKey}) : super(key: key);
 
   @override
